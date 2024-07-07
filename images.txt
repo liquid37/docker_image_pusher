@@ -3,4 +3,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-kasmweb/nginx:1.25.3
+#kasmweb/nginx:1.25.3
+redis:6.2-rc-buster
